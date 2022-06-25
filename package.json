@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^16.11.40"
+    "@types/node": "^16.11.40",
+    "@types/reflect-metadata": "^0.1.0"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
   }
 }
